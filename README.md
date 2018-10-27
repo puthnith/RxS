@@ -3,9 +3,9 @@
 ![CocoaPods](https://img.shields.io/badge/xcode-10-blue.svg?style=popout)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout)](https://github.com/puthnith/RxS/blob/master/LICENSE.md)
 
-RxS is a RxSwift playground for you to getting up and running pretty fast.
+**RxS** is a **RxSwift playground** for you to getting up and running pretty fast.
 
-## How to Play
+## How to Play 🐒
 
 ### Cocopods
 
@@ -22,11 +22,11 @@ pod install
 open RxS.xcworkspace
 ```
 
-Then to make the Xcode happy, you may follow the warning instruction to `Update to recommended settings` for Pods.xcodeproj.
+To make the Xcode happy 😅, you may follow the ⚠️ instruction to **Update to recommended settings** 💪 for **Pods.xcodeproj**.
 
-Now, click on the RxS (playground) in the project navigator, build the project (Command + B) and enjoy the playground.
+Now, click 👉 the **RxS (playground)** in the project navigator, 🛠 build the project (Command + B) and enjoy 😀 the playground.
 
-## Example
+## Example 🚀
 
 ```swift
 import RxSwift
